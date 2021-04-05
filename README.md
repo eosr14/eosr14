@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?&type=slice&color=00D4FF&height=100&section=heade&text=Kwanghee%20Shin&fontSize=90)  
+![header](https://capsule-render.vercel.app/api?&type=slice&color=00D4FF&height=300&section=heade&text=Kwanghee%20Shin&fontSize=90)  
 
 <h3 align="center"> 🔨 관심 분야 </h3>
 
