@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img align="center" src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Kwanghee%20Shin&fontSize=50&animation=twinkling" />
-</p>
-
 <h3 align="center"> 🔨 관심 분야 🔨 </h3>
 
 <p align="center">
